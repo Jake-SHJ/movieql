@@ -1,4 +1,3 @@
-// import { getMovies, getById, addMovie, deleteMovie } from "./db";
 import { getMovies } from "./db";
 
 const resolvers = {
